@@ -6,13 +6,10 @@
 - 🌱 I’m currently learning **AWS**
 
 - 💬 Ask me about **MERN STACK**
-
-- 📫 How to reach me **prathamgarg1122@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pratham-garg28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratham-garg28" height="30" width="40" /></a>
-<a href="https://instagram.com/_prathamgarg_._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_prathamgarg_._" height="30" width="40" /></a>
+
 <a href="https://www.leetcode.com/prathamgarg15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prathamgarg15" height="30" width="40" /></a>
 </p>
 
